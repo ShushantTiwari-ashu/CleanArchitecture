@@ -194,7 +194,7 @@ updates
 
 Read related articles to have a better understanding of underlying design decisions and various trade-offs.
 
-* [Multiple ways of defining Clean Architecture layers](https://medium.com/@shushanttiwari.ashu/adoption-of-clean-architecture-layers-with-modules-768386f62fd1)
+* [Adoption of Clean Architecture layers with modules](https://medium.com/@shushanttiwari.ashu/adoption-of-clean-architecture-layers-with-modules-768386f62fd1)
 * More coming soon
 
 ## What this project does not cover?
